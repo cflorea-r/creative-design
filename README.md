@@ -8,3 +8,7 @@ Project assignment: Affective interaction device
 - Individual assignment!
 
 Documentation of your project (and exercises)
+
+Exercise 1
+
+Exercise 2
