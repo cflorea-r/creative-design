@@ -13,6 +13,5 @@ Exercise 1
 
 Exercise 2
 
-
-        creative-design/Exercise 2.1.jpg
-      
+<img src="Exercise 2.1.jpg">
+<img src="Exercise 2.2.jpg">
