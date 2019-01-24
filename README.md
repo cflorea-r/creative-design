@@ -12,3 +12,7 @@ Documentation of your project (and exercises)
 Exercise 1
 
 Exercise 2
+
+
+        creative-design/Exercise 2.1.jpg
+      
