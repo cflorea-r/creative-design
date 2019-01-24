@@ -1,5 +1,3 @@
-# creative-design
-
 ## Project assignment: Affective interaction device
 
 - Generate and prototype an idea about a gadget that interacts with the user in an affective/emotional way.
