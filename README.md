@@ -15,6 +15,5 @@ Exercise 2
 
 Concept generation
 <img src="Exercise 2.1.jpg">
-
 Mindmapping
 <img src="Exercise 2.2.jpg">
