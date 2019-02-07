@@ -26,3 +26,15 @@ Task: Laser cut your own simple artifact (teams of 2)
 <img src="Exercise 3.1.jpg">
 <img src="Exercise 3.2.jpg">
 <img src="Exercise 3.3.jpg">
+
+### Exercise 4
+
+4 February - 10 February  
+Lecture / Exercise 4: Design thinking. Design thinking exercise.  
+Task: Design thinking (teams of 2)  
+<img src="Exercise 4.1.jpg">
+<img src="Exercise 4.2.jpg">
+<img src="Exercise 4.3.jpg">
+<img src="Exercise 4.4.jpg">
+<img src="Exercise 4.5.jpg">
+<img src="Exercise 4.6.jpg">
