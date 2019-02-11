@@ -38,3 +38,12 @@ Task: Design thinking (teams of 2)
 <img src="Exercise 4.4.jpg">
 <img src="Exercise 4.5.jpg">
 <img src="Exercise 4.6.jpg">
+
+### Exercise 5
+
+11 February - 17 February  
+Lecture / Exercise 5: Systematic creative ideation.  
+Task: Use design heuristics to aid your idea generation  
+<img src="Exercise 5.1.jpg">
+<img src="Exercise 5.2.jpg">
+<img src="Exercise 5.3.jpg">
