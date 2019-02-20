@@ -47,3 +47,11 @@ Task: Use design heuristics to aid your idea generation
 <img src="Exercise 5.1.jpg">
 <img src="Exercise 5.2.jpg">
 <img src="Exercise 5.3.jpg">
+
+### Exercise 6
+
+18 February - 24 February  
+Lecture/Exercise 6: Prototyping. Team competition exercise.  
+Task: Egg-drop challenge.  
+<img src="Exercise 6.1.jpg">
+<img src="Exercise 6.2.jpg">
