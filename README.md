@@ -55,3 +55,11 @@ Lecture/Exercise 6: Prototyping. Team competition exercise.
 Task: Egg-drop challenge.  
 <img src="Exercise 6.1.jpg">
 <img src="Exercise 6.2.jpg">
+
+### Exercise 7
+
+25 February - 3 March  
+Lecture/Exercise 7: Systematic creative ideation methods.  
+Task: 1) Brainwriting /  6-3-5 method; 2) SCAMPER method  
+<img src="Exercise 7.1.jpg">
+<img src="Exercise 7.2.jpg">
