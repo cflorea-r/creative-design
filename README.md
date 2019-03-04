@@ -1,12 +1,12 @@
 - [Project](#project)
-  * [Sub-heading](#sub-heading)
-    + [Sub-sub-heading](#sub-sub-heading)
-- [Heading](#heading-1)
-  * [Sub-heading](#sub-heading-1)
-    + [Sub-sub-heading](#sub-sub-heading-1)
-- [Heading](#heading-2)
-  * [Sub-heading](#sub-heading-2)
-    + [Sub-sub-heading](#sub-sub-heading-2)
+- [Exercises](#exercises)
+  * [Exercise 1](#exercise 1)
+  * [Exercise 2](#exercise 2)
+  * [Exercise 3](#exercise 3)
+  * [Exercise 4](#exercise 4)
+  * [Exercise 5](#exercise 5)
+  * [Exercise 6](#exercise 6)
+  * [Exercise 7](#exercise 7)
 
 ## Project 
 
