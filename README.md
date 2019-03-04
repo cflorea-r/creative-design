@@ -10,7 +10,22 @@
 
 ## Project 
 
+The project aims to laser engrave and cut an image on acrylic material using the Epilog Laser Fusion 75W CO2 laser cutter. The emotional aspect of this prototype project I'd say is that it can evoke surprise, interest, anticipation. As for the interaction aspect, it's quite simple as the user can put together a full image from pieces.
 
+<img src="Project 1.1.jpg">
+<img src="Project 1.2.jpg">
+<img src="Project 1.3.jpg">
+
+The image is engraved on transparent acrylic with cut out parts of the image. Firstly, an image was selected to be used. One of the challenges of this project was achieving a good engraving result, while learning about the different effects that can be applied to such an image to make it okay looking on acrylic. Thus, significant time was put into testing and engraving using different settings. Effects and tools that were used are: grayscale color, invert colors, tone curve and unsharp mask. The software used was CorelDRAW2018. 
+
+<img src="Project 2.1.jpg">
+<img src="Project 2.2.jpg">
+
+Out of all these different versions, the one that I liked most was the grayscaled, inverted colors, without tone curve or unsharp mask version. A new file was created from this and cutout parts were drawn. 
+
+<img src="Project 3.1.jpg">
+
+Although the result seems pretty simple, I learned during the process how to work with the Epilog Laser Fusion 75W CO2 laser cutter, how to use software such as CorelDRAW and Inkscape, how to think more creatively, and more about laser cutting, engraving and materials.
 
 ## Exercises
 
