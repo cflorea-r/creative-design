@@ -14,8 +14,6 @@
 
 ## Exercises
 
-
-
 ### Exercise 1
 
 Introduction to creative problem solving
